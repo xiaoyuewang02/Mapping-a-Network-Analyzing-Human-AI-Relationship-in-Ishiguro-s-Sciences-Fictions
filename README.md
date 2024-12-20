@@ -8,7 +8,7 @@ Preprocessed Data：the labelled text are named Never_Label_Name.txt and Klara_L
 
 2. Workflow
 The workflows are documented in Klara_Workflow.ipynb and Never_Workflow.ipynb. (Python)
-2.1 Build the name dictionary manually (the references can be seen in Klara and the Sun Characters Listed With Descriptions.pdfand Never Let Me Go Characters Listed With Descriptions.pdf).
+2.1 Build the name dictionary manually (the references can be seen in Klara and the Sun Characters Listed With Descriptions.pdf and Never Let Me Go Characters Listed With Descriptions.pdf).
 2.2 Plot the histograms of the names' frequency distribution.
 2.3 Check the turning point of frequency by plotting a Log-Log Plot of character frequency.
 2.4 Calculate the character co-occurrence matrix using a Python sliding window size(=50).
